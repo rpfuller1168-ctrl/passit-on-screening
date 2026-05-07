@@ -1,4 +1,4 @@
-const CACHE = 'passit-v1';
+const CACHE = 'passit-v2';
 const ASSETS = [
   './',
   './index.html',
